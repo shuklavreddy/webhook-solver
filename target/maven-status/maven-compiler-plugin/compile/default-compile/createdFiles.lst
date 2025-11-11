@@ -1,0 +1,4 @@
+com\example\webhooksolver\dto\GenerateWebhookResponse.class
+com\example\webhooksolver\service\StartupService.class
+com\example\webhooksolver\WebhookSolverApplication.class
+com\example\webhooksolver\config\WebClientConfig.class
